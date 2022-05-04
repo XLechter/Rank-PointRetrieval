@@ -1,5 +1,5 @@
 # Rank-PointRetrieval: Reranking Point Cloud Retrieval via a Visually Consistent Registration Evaluation
-Codes for Rank-PointRetrieval: Reranking Point Cloud Retrieval via a Visually Consistent Registration Evaluation. IEEE Transactions on Visualization and Computer Graphics (TVCG), 2022. See [IEEE PDF]. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9764639)
+Codes for Rank-PointRetrieval: Reranking Point Cloud Retrieval via a Visually Consistent Registration Evaluation. IEEE Transactions on Visualization and Computer Graphics (TVCG), 2022. See [IEEE PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9764639).
 
 ![overview](overview.png)
 
