@@ -37,9 +37,9 @@ python generate_training_tuples_baseline.py
 python generate_training_tuples_refine.py
 ```
 
-### 2.3 > Downloading pre-built model vectors
+### 2.3 > Pre-built model vectors
 
-To simplify testing steps for the paper, we provide pre-built model vectors [here](https://drive.google.com/drive/folders/1QClCsgzOAcPDX4FXt0Kg8uzvfohMS9mo?usp=sharing), which are the features distances for the testing set from the corresponding model. You need to unzip it under the MODEL_VECTORS/ .
+To simplify testing steps for the paper, we provide pre-built model vectors under the MODEL_VECTORS/, which are the features distances for the testing set from the corresponding models, such as Minkloc3D. 
 
 > For advanced users to generate your own vectors files:
 
