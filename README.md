@@ -1,6 +1,11 @@
-# CVPR2021_SubmissionID8578.
+# Rank-PointRetrieval: Reranking Point Cloud Retrieval via a Visually Consistent Registration Evaluation
+Codes for Rank-PointRetrieval: Reranking Point Cloud Retrieval via a Visually Consistent Registration Evaluation. IEEE Transactions on Visualization and Computer Graphics (TVCG), 2022. See [IEEE PDF]. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9764639)
 
-This project includes the source code for CVPR2021 Submission 8578.
+![overview](overview.png)
+
+Re-ranking is a critical step in improving retrieval accuracy, yet little effort has been devoted to re-ranking in point cloud
+retrieval. In this paper, we investigate the versatility of rigid registration in re-ranking the point cloud retrieval results. Specifically, after getting the initial retrieval list based on the global point cloud feature distance, we perform registration between the query and point clouds in the retrieval list. We propose an efficient strategy based on visual consistency to evaluate each registration with a registration score in an unsupervised manner. The final re-ranked list is computed by considering both the original global feature distance and the registration score.
+
 
 ## 1) Pre-requisites
 
