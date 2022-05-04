@@ -1,0 +1,1 @@
+unzip pre-trained models here, edit get_model_vectors.py if necessary to find the model file
