@@ -10,7 +10,7 @@ retrieval. In this paper, we investigate the versatility of rigid registration i
 ## 1) Pre-requisites
 
 - Python 3
-- open3d-python
+- open3d-python==0.0.8
 - Sklearn
 - Pytorch
 - CUDA
