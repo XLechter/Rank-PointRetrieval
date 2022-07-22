@@ -217,3 +217,14 @@ So you can edit your `evaluate.py` to output vectors, like what is done in  `eva
 Then, put vectors under `MODEL_VECTORS/your_model_name/` .
 
 Thus, you could use `--model your_model_name` to use your model's feature distance results to try the registration.
+## [Citation]
+If you find our code useful, please cite our paper:
+```bibtex
+@article{zhang2022rank,
+  title={Rank-PointRetrieval: Reranking Point Cloud Retrieval via a Visually Consistent Registration Evaluation},
+  author={Zhang, Wenxiao and Zhou, Huajian and Dong, Zhen and Yan, Qingan and Xiao, Chunxia},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2022},
+  publisher={IEEE}
+}
+```
